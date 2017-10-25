@@ -3,4 +3,6 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
- gem "twitter"
+ruby 2.4.2
+
+gem "twitter"
